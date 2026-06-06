@@ -3,7 +3,7 @@
 A Power BI dashboard analyzing 10,893 sold properties across Florida in 2026.
 
 ## Dashboard
-![Dashboard Preview](Florida-Real-Estate-Dashboard-Preview.png)
+![Dashboard Preview](FL-Real-Estate-Dashboard-Preview.png)
 
 
 
